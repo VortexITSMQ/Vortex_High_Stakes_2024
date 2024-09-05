@@ -50,4 +50,4 @@ Before you start working on this project, ensure you have the following installe
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/[your-team-name]/[your-repository-name].git
+   git clone https://github.com/VortexITSMQ/Vortex_High_Stakes_2024.git

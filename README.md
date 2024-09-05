@@ -1,6 +1,6 @@
-# **[Team Name] - VEX Robotics Repository**
+# **VORTEX - VEX Robotics Repository**
 
-Welcome to the official repository of **[Team Name]**. This repository contains the code, designs, and documentation for our VEX Robotics projects.
+Welcome to the official repository of **VORTEX**. This repository contains the code, designs, and documentation for our VEX Robotics projects.
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
@@ -17,16 +17,24 @@ Welcome to the official repository of **[Team Name]**. This repository contains 
 ## **Project Overview**
 
 - **Project Name**: [Robot Name/Project Title]
-- **Competition**: [VEX Competition Name and Year]
+- **Competition**: VEX Competition High Stakes 2024
 - **Description**: Brief description of the robot's purpose and the competition it’s designed for. Highlight key features and goals.
 
-## **Team Members**
+## Team Members
 
-- **Team Captain**: [Name] - [Role] - [Email]
-- **Programmers**: [Names]
-- **Designers**: [Names]
-- **Builders**: [Names]
-- **Mentors**: [Names]
+### Programming Team
+- [Name] - [Role]
+- [Name] - [Role]
+
+### Design Team
+- [Name] - [Role]
+
+### Building Team
+- [Name] - [Role]
+
+### Mentors
+- [Name] - [Role]
+
 
 ## **Getting Started**
 
@@ -34,7 +42,7 @@ Welcome to the official repository of **[Team Name]**. This repository contains 
 
 Before you start working on this project, ensure you have the following installed:
 - [VEXcode Pro V5](https://www.vexrobotics.com/vexcode-download)
-- [Git](https://git-scm.com/)
+- [Git](https://github.com/git-guides/install-git)
 - [Any other software/tools required]
 
 ### **Installation**
